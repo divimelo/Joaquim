@@ -6,11 +6,11 @@ Here will be developed the postcard of diana, will be started a project from scr
 </p>
 
 <h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
+    :construction:  Project under construction  :construction:
 </h4>
-:hammer: Funcionalidades:
+:hammer: Functionality:
 
-- `1` Power BI no intuido dos dados passados;
-- `2` Data Science para dados futuros;
-- `3` Acompanhamento de atividades em tempo real;
-- `4` Antecipação com estratégias evitando o caos;
+- `1` Power BI in order to understand past events;
+- `2` Data Science in order to undersant future event;
+- `3` Monitoring of activities in real time;
+- `4` Antecipation with strategy;
